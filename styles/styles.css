@@ -175,9 +175,6 @@ body:before {
     transition: transform 0.3s;
     transform: scale(1.1) translatez(-5px);
     box-shadow: rgba(0, 0, 0, 2.56) 0px 22px 70px 4px;        
-    /*background-image: linear-gradient(to right, #ebeff1 0%, #26a0da  51%, #1067e1  100%);
-    
-    /**/
     margin: 15px;
     padding: 15px 15px;    
     text-transform: uppercase;
@@ -195,9 +192,8 @@ body:before {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'Open Sans', sans-serif;
+    
 }
-
 
 
 /*:::::Pie de Pagina*/
